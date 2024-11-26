@@ -1,0 +1,11 @@
+#items1 img{
+    height:100px;
+    width: 150px;
+    display: inline;
+}
+/* #items1>a{
+    text-decoration: none;
+    display: inline-block;
+    display:grid;
+    grid-template-columns: auto auto;
+} */

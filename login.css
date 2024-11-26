@@ -1,0 +1,55 @@
+.login{
+    /* border: solid 2px; */
+    text-align: center;
+    display: grid;
+    /* align-content: center; */
+    padding-top: 150px;
+}
+h2{
+    color: orangered;
+    font-size: 36px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+input{
+    color: purple;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 20px;
+    height: 35px;
+    width: 350px;
+    text-align: center;
+}
+.login1>a{
+    /* text-decoration: none; */
+    color: blueviolet;
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 170px;
+}
+.login1>a:hover{
+    color:hotpink;
+}
+.login2 button{
+    font-size: 20px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    background-color: brown;
+
+}
+.login2 button:hover{
+    color:rgb(0, 0, 0);
+    height:35px;
+    width: 140px;
+    transition-timing-function:ease-in;
+    background-color: greenyellow;
+}
+span a:hover{
+    color:hotpink;
+}
+/* fieldset{
+    margin:0px 500px ;
+    border-radius: 50px;
+    /* border: 3px solid hotpink; */
+    /* padding-top: 50px; */
+    /* height:300px; */
+/* }  */
